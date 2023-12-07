@@ -12,8 +12,8 @@
 
 ---
 * 객체 모델링
+<img width="518" alt="elevator_model" src="https://github.com/tmdrb/Concurrency/assets/31639082/e562277d-32ea-41c3-bcf0-b4d5102a9b38">
 
-<img width="518" alt="스크린샷 2023-06-30 오후 1 30 33" src="https://github.com/tmdrb/ElevatorProject/assets/31639082/e6178d3b-9644-4d1b-a1e1-d67a81da885c">
 
 ---
 
